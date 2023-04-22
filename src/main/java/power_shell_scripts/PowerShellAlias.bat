@@ -2,7 +2,7 @@
 
 
 @echo adding the alials to powershell profile
-notepad $PROFILE
+notepad $PROFILE #Adding alias on power shell without will make alias temporary 
 
 @echo creating an alias for winget install by id
 
