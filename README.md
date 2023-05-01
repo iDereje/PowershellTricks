@@ -32,4 +32,4 @@ This repository is licensed under the MIT license. See the LICENSE file for more
 
 ## Contact
 
-If you have any questions or comments, please feel free to contact me at [your email address]. Thank you for using PowerShell Tricks!
+If you have any questions or comments, please feel free to contact me at Derejeisack@gmail.com Thank you for using PowerShellTricks
