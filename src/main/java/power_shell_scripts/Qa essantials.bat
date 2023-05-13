@@ -14,7 +14,6 @@ winget install --id "GLab.GLab"
 winget install --id "GitHub.GitHubDesktop"
 winget install --id "Axosoft.GitKraken"
 winget install --id "GitHub.cli"
-winget install --id "9WZDNCRDK1N4"
 winget install --id "Microsoft.VisualStudioCode"
 winget install --id "JSFoundation.Appium"
 winget upgrade --all 
