@@ -26,9 +26,7 @@ The `installById` and `installByName` aliases allow you to install packages usin
 
 If you have a useful PowerShell script or function that you would like to contribute to this repository, please feel free to submit a pull request. Before submitting, please make sure your code follows the PowerShell best practices and includes a clear description of what it does.
 
-## License
 
-This repository is licensed under the MIT license. See the LICENSE file for more information.
 
 ## Contact
 
