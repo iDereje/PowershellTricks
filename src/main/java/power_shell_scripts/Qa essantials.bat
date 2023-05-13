@@ -17,6 +17,6 @@ winget install --id "GitHub.cli"
 winget install --id "9WZDNCRDK1N4"
 winget install --id "Microsoft.VisualStudioCode"
 winget install --id "JSFoundation.Appium"
-
+winget upgrade --all 
 
 start Notepad
